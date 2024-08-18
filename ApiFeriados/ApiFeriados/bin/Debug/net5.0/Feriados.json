@@ -1,0 +1,4241 @@
+[
+  {
+    "EstadoId": 1,
+    "estado_descricao": "SP",
+    "estado_sigla": "SP",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 2,
+    "estado_descricao": "RJ",
+    "estado_sigla": "RJ",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 3,
+    "estado_descricao": "MG",
+    "estado_sigla": "MG",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 4,
+    "estado_descricao": "RS",
+    "estado_sigla": "RS",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 5,
+    "estado_descricao": "BA",
+    "estado_sigla": "BA",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 6,
+    "estado_descricao": "PR",
+    "estado_sigla": "PR",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 7,
+    "estado_descricao": "PE",
+    "estado_sigla": "PE",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 8,
+    "estado_descricao": "CE",
+    "estado_sigla": "CE",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 9,
+    "estado_descricao": "PA",
+    "estado_sigla": "PA",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 10,
+    "estado_descricao": "MA",
+    "estado_sigla": "MA",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 11,
+    "estado_descricao": "SC",
+    "estado_sigla": "SC",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 12,
+    "estado_descricao": "GO",
+    "estado_sigla": "GO",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 13,
+    "estado_descricao": "AM",
+    "estado_sigla": "AM",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 14,
+    "estado_descricao": "ES",
+    "estado_sigla": "ES",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 15,
+    "estado_descricao": "PB",
+    "estado_sigla": "PB",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 16,
+    "estado_descricao": "RN",
+    "estado_sigla": "RN",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 17,
+    "estado_descricao": "MT",
+    "estado_sigla": "MT",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 18,
+    "estado_descricao": "AL",
+    "estado_sigla": "AL",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 19,
+    "estado_descricao": "PI",
+    "estado_sigla": "PI",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 20,
+    "estado_descricao": "DF",
+    "estado_sigla": "DF",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 21,
+    "estado_descricao": "MS",
+    "estado_sigla": "MS",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 22,
+    "estado_descricao": "SE",
+    "estado_sigla": "SE",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 23,
+    "estado_descricao": "RO",
+    "estado_sigla": "RO",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 24,
+    "estado_descricao": "TO",
+    "estado_sigla": "TO",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 25,
+    "estado_descricao": "AC",
+    "estado_sigla": "AC",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 26,
+    "estado_descricao": "AP",
+    "estado_sigla": "AP",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "EstadoId": 27,
+    "estado_descricao": "RR",
+    "estado_sigla": "RR",
+    "Anos": [
+      {
+        "NumeroAno": 2024,
+        "Feriados": [
+          {
+            "Data": "2024-01-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Day"
+          },
+          {
+            "Data": "2024-02-09T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Friday"
+          },
+          {
+            "Data": "2024-02-10T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Saturday"
+          },
+          {
+            "Data": "2024-02-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Carnival Sunday"
+          },
+          {
+            "Data": "2024-02-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Monday"
+          },
+          {
+            "Data": "2024-02-13T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival Tuesday"
+          },
+          {
+            "Data": "2024-02-14T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Carnival end (until 2pm)"
+          },
+          {
+            "Data": "2024-03-20T00:06:28-03:00",
+            "Tipo": "Season",
+            "Titulo": "March Equinox"
+          },
+          {
+            "Data": "2024-03-29T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Good Friday"
+          },
+          {
+            "Data": "2024-03-31T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Easter Sunday"
+          },
+          {
+            "Data": "2024-04-21T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Tiradentes Day"
+          },
+          {
+            "Data": "2024-05-01T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Labor Day / May Day"
+          },
+          {
+            "Data": "2024-05-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Mother's Day"
+          },
+          {
+            "Data": "2024-05-30T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Corpus Christi"
+          },
+          {
+            "Data": "2024-06-12T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Brazilian Valentine's Day"
+          },
+          {
+            "Data": "2024-06-20T17:50:59-03:00",
+            "Tipo": "Season",
+            "Titulo": "June Solstice"
+          },
+          {
+            "Data": "2024-08-11T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Father's Day"
+          },
+          {
+            "Data": "2024-09-07T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Independence Day"
+          },
+          {
+            "Data": "2024-09-22T09:43:33-03:00",
+            "Tipo": "Season",
+            "Titulo": "September Equinox"
+          },
+          {
+            "Data": "2024-10-12T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Our Lady of Aparecida / Children's Day"
+          },
+          {
+            "Data": "2024-10-15T00:00:00",
+            "Tipo": "Observance",
+            "Titulo": "Teacher's Day"
+          },
+          {
+            "Data": "2024-10-28T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Public Service Holiday"
+          },
+          {
+            "Data": "2024-11-02T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "All Souls' Day"
+          },
+          {
+            "Data": "2024-11-15T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Republic Proclamation Day"
+          },
+          {
+            "Data": "2024-11-20T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Black Awareness Day"
+          },
+          {
+            "Data": "2024-12-21T06:20:34-03:00",
+            "Tipo": "Season",
+            "Titulo": "December Solstice"
+          },
+          {
+            "Data": "2024-12-24T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Eve (from 2pm)"
+          },
+          {
+            "Data": "2024-12-25T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "Christmas Day"
+          },
+          {
+            "Data": "2024-12-31T00:00:00",
+            "Tipo": "National holiday",
+            "Titulo": "New Year's Eve (from 2pm)"
+          }
+        ]
+      }
+    ]
+  }
+]

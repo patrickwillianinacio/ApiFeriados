@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bFb5iL8wqLHA75tn7NeiDQvhinNJok3UTGcuDVGs6oUkfcvrRwLFxaug0dtVkXWzRC1Pop+/WcVeDgSJEAPIKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projeto DMCard\\SiscredDotNet\\WebApi\\Internos\\ApiFeriados\\ApiFeriados\\ApiFeriados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patrick.willian.DMCONTROLE\\.nuget\\packages\\htmlagilitypack\\1.11.62\\htmlagilitypack.1.11.62.nupkg.sha512",
+    "C:\\Users\\patrick.willian.DMCONTROLE\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
